@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-today is Oct.13th.Oct.13th is 10.13.
-=======
-today is 10.13
->>>>>>> future
